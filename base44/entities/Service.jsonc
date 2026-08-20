@@ -1,0 +1,19 @@
+{
+  "type": "object",
+  "properties": {
+    "number": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    }
+  },
+  "required": [],
+  "name": "Service"
+}

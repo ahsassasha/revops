@@ -1,0 +1,28 @@
+{
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "excerpt": {
+      "type": "string"
+    },
+    "author": {
+      "type": "string"
+    },
+    "author_title": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "published_date": {
+      "type": "string"
+    },
+    "read_time": {
+      "type": "string"
+    }
+  },
+  "required": [],
+  "name": "Insight"
+}
